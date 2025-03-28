@@ -26,7 +26,7 @@ My name is Padmanabh Wanikar and I'm an AI & ML enthusiast from India.
 
 ## 📬 Let's Connect!  
 <p align="left">
-  <a href="https://www.linkedin.com/in/padmanabh-wanikar">
+  <a href="https://www.linkedin.com/in/padmawanikar/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
   </a>
   <a href="https://github.com/PadmanabhW">
